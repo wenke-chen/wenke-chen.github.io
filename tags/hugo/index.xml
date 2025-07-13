@@ -14,8 +14,9 @@
         <guid>https://www.wenke-chen.github.io/p/blog-wizard/</guid>
         <description>&lt;img src="https://www.wenke-chen.github.io/p/blog-wizard/hugo.png" alt="Featured image of post 博客向导" /&gt;&lt;h2 id=&#34;博客主题&#34;&gt;博客主题&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/themes/hugo-theme-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo Theme Stack&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;参考教程&#34;&gt;参考教程&lt;/h2&gt;
+    &gt;Hugo Theme Stack&lt;/a&gt;及 &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;参考文档&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;搭建参考教程&#34;&gt;搭建参考教程&lt;/h2&gt;
 &lt;p&gt;1、10分钟教你简单搭建个人博客(hugo篇)
 
 
@@ -56,7 +57,7 @@
     &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;教程指令&#34;&gt;教程指令&lt;/h2&gt;
+&lt;h2 id=&#34;搭建教程相关指令&#34;&gt;搭建教程相关指令&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;一、安装 Hugo及git&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -145,8 +146,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f origin master
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;打开https://yourname.github.io/即可看到和本地预览一样的博客网站。
-PS：yourname为你的github名。&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;打开https://yourname.github.io/ 即可看到和本地预览一样的博客网站（yourname为您的github名）。&lt;/p&gt;
 &lt;p&gt;&amp;#x1f648;&lt;/p&gt;
 </description>
         </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tutorial on wenke-chen&#39;s blog</title>
-        <link>https://www.wenke-chen.github.io/categories/tutorial/</link>
+        <link>http://localhost:1313/categories/tutorial/</link>
         <description>Recent content in Tutorial on wenke-chen&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.wenke-chen.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tutorial/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博客向导</title>
-        <link>https://www.wenke-chen.github.io/p/blog-wizard/</link>
+        <link>http://localhost:1313/p/blog-wizard/</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://www.wenke-chen.github.io/p/blog-wizard/</guid>
-        <description>&lt;img src="https://www.wenke-chen.github.io/p/blog-wizard/hugo.png" alt="Featured image of post 博客向导" /&gt;&lt;h2 id=&#34;博客主题&#34;&gt;博客主题&lt;/h2&gt;
+        <guid>http://localhost:1313/p/blog-wizard/</guid>
+        <description>&lt;img src="http://localhost:1313/p/blog-wizard/hugo.png" alt="Featured image of post 博客向导" /&gt;&lt;h2 id=&#34;博客主题&#34;&gt;博客主题&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/themes/hugo-theme-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo Theme Stack&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;参考教程&#34;&gt;参考教程&lt;/h2&gt;
@@ -145,8 +145,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f origin master
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;打开https://yourname.github.io/即可看到和本地预览一样的博客网站。
-PS：yourname为你的github名。&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;打开https://yourname.github.io/ 即可看到和本地预览一样的博客网站（yourname为您的github名）。&lt;/p&gt;
 &lt;p&gt;&amp;#x1f648;&lt;/p&gt;
 </description>
         </item>
