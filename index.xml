@@ -135,7 +135,7 @@
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 将生成的静态文件推送到该仓库 #
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 将生成的静态文件推送到该仓库, 相关信息修改成自己的 #
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd public
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add -A
@@ -146,7 +146,9 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f origin master
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;打开https://yourname.github.io/ 即可看到和本地预览一样的博客网站（yourname为您的github名）。&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;推送完成打开https://yourname.github.io/ 即可看到和本地预览一样的博客网站（yourname为您的github名）。&lt;br&gt;
+我的网站是 &lt;a class=&#34;link&#34; href=&#34;https://wenke-chen.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://wenke-chen.github.io/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#x1f648;&lt;/p&gt;
 </description>
         </item>
@@ -1488,6 +1490,26 @@ VRO右轮无摩擦时线速度的大小（rad/s）&lt;br&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;五实物展示&#34;&gt;五、实物展示&lt;/h2&gt;
+&lt;p&gt;实物中为方便调试加入了lcd显示屏和无线仿真器，并将外观做成了类似小米9号平衡车的样子。
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ERuzzHEXi&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;所涉及资料都已放在github，有需要可自行下载。&lt;/strong&gt;&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/wenke-chen/DM-segway&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;所用代码、BOM及3D文件&lt;/a&gt;

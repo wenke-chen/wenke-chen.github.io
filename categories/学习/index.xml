@@ -1344,6 +1344,26 @@ VRO右轮无摩擦时线速度的大小（rad/s）&lt;br&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;五实物展示&#34;&gt;五、实物展示&lt;/h2&gt;
+&lt;p&gt;实物中为方便调试加入了lcd显示屏和无线仿真器，并将外观做成了类似小米9号平衡车的样子。
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1ERuzzHEXi&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;所涉及资料都已放在github，有需要可自行下载。&lt;/strong&gt;&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/wenke-chen/DM-segway&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;所用代码、BOM及3D文件&lt;/a&gt;
