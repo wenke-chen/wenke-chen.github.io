@@ -1,0 +1,16 @@
+---
+title: 基于无刷电机的平衡小车(PID)
+description: 记录从LQR到PID的学习过程
+slug: segway
+date: 2025-07-21T22:47:51+18:00
+image: car2.png
+comments: true
+categories:
+    - 学习
+tags:
+    - 平衡小车
+    - 无刷电机
+    - 机器人
+    - STM32
+weight: 2       # You can add weight to some posts to override the default sorting (date descending)
+---
